@@ -1,0 +1,22 @@
+C:\Users\Denis\Desktop\Новая папка C#\LinqHW\LinqHW\bin\Debug\netcoreapp3.0\LinqHW.exe
+C:\Users\Denis\Desktop\Новая папка C#\LinqHW\LinqHW\bin\Debug\netcoreapp3.0\LinqHW.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\LinqHW\LinqHW\bin\Debug\netcoreapp3.0\LinqHW.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\LinqHW\LinqHW\bin\Debug\netcoreapp3.0\LinqHW.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\LinqHW\LinqHW\bin\Debug\netcoreapp3.0\LinqHW.dll
+C:\Users\Denis\Desktop\Новая папка C#\LinqHW\LinqHW\bin\Debug\netcoreapp3.0\LinqHW.pdb
+C:\Users\Denis\Desktop\Новая папка C#\LinqHW\LinqHW\obj\Debug\netcoreapp3.0\LinqHW.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\LinqHW\LinqHW\obj\Debug\netcoreapp3.0\LinqHW.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\LinqHW\LinqHW\obj\Debug\netcoreapp3.0\LinqHW.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\LinqHW\LinqHW\obj\Debug\netcoreapp3.0\LinqHW.dll
+C:\Users\Denis\Desktop\Новая папка C#\LinqHW\LinqHW\obj\Debug\netcoreapp3.0\LinqHW.pdb
+D:\github\LinqHW1\LinqHW\bin\Debug\netcoreapp3.0\LinqHW.exe
+D:\github\LinqHW1\LinqHW\bin\Debug\netcoreapp3.0\LinqHW.deps.json
+D:\github\LinqHW1\LinqHW\bin\Debug\netcoreapp3.0\LinqHW.runtimeconfig.json
+D:\github\LinqHW1\LinqHW\bin\Debug\netcoreapp3.0\LinqHW.runtimeconfig.dev.json
+D:\github\LinqHW1\LinqHW\bin\Debug\netcoreapp3.0\LinqHW.dll
+D:\github\LinqHW1\LinqHW\bin\Debug\netcoreapp3.0\LinqHW.pdb
+D:\github\LinqHW1\LinqHW\obj\Debug\netcoreapp3.0\LinqHW.csprojAssemblyReference.cache
+D:\github\LinqHW1\LinqHW\obj\Debug\netcoreapp3.0\LinqHW.AssemblyInfoInputs.cache
+D:\github\LinqHW1\LinqHW\obj\Debug\netcoreapp3.0\LinqHW.AssemblyInfo.cs
+D:\github\LinqHW1\LinqHW\obj\Debug\netcoreapp3.0\LinqHW.dll
+D:\github\LinqHW1\LinqHW\obj\Debug\netcoreapp3.0\LinqHW.pdb
